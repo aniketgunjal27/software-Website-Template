@@ -11,8 +11,9 @@ const Features = () => {
       >
         <div className="container">
           <SectionTitle
-            title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            title="Our Mission"
+            paragraph="Empowering Plants through Predictive Analysis and Health Monitoring.
+            At the core of our mission is the aim to empower manufacturing plants to proactively address equipment issues before they escalate into major breakdowns. We offer a range of software solutions that utilize predictive analysis and health monitoring techniques to ensure the smooth and uninterrupted operation of critical machinery."
             center
           />
 
